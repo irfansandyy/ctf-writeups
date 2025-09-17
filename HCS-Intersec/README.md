@@ -2,74 +2,74 @@
 
 ## Web Exploitation
 
-[<u>LeFI Gimang</u>](./LeFI-Gimang/README.md)
+[<u>LeFI Gimang</u>](./LeFI-Gimang)
 
-[<u>Jinja Ninja</u>](./Jinja-Ninja/README.md)
+[<u>Jinja Ninja</u>](./Jinja-Ninja)
 
-[<u>Lockpicking</u>](./Lockpicking/README.md)
+[<u>Lockpicking</u>](./Lockpicking)
 
-[<u>elefay</u>](./elefay/README.md)
+[<u>elefay</u>](./elefay)
 
 ## Cryptography
 
-[<u>L3AK</u>](./L3AK/README.md)
+[<u>L3AK</u>](./L3AK)
 
-[<u>based</u>](./based/README.md)
+[<u>based</u>](./based)
 
-[<u>nothing</u>](./nothing/README.md)
+[<u>nothing</u>](./nothing)
 
-[<u>square</u>](./square/README.md)
+[<u>square</u>](./square)
 
-[<u>xoxo</u>](./xoxo/README.md)
+[<u>xoxo</u>](./xoxo)
 
 ## Digital Forensics
 
-[<u>I Forgot Something</u>](./I-Forgot-Something/README.md)
+[<u>I Forgot Something</u>](./I-Forgot-Something)
 
-[<u>My Networ(th)k</u>](./My-Networ(th)k/README.md)
+[<u>My Networ(th)k</u>](./My-Networ(th)k)
 
-[<u>Atadatem</u>](./Atadatem/README.md)
+[<u>Atadatem</u>](./Atadatem)
 
-[<u>Blind File</u>](./Blind-File/README.md)
+[<u>Blind File</u>](./Blind-File)
 
-[<u>Three Umazing Things</u>](./Three-Umazing-Things/README.md)
+[<u>Three Umazing Things</u>](./Three-Umazing-Things)
 
 ## MISC
 
-[<u>Wordle</u>](./Wordle/README.md)
+[<u>Wordle</u>](./Wordle)
 
-[<u>toggle</u>](./toggle/README.md)
+[<u>toggle</u>](./toggle)
 
 ## Binary Exploitation
 
-[<u>Tuff Shop</u>](./Tuff-Shop/README.md)
+[<u>Tuff Shop</u>](./Tuff-Shop)
 
-[<u>Cosmic Tongue</u>](./Cosmic-Tongue/README.md)
+[<u>Cosmic Tongue</u>](./Cosmic-Tongue)
 
-[<u>tinggal run</u>](./tinggal-run/README.md)
+[<u>tinggal run</u>](./tinggal-run)
 
-[<u>Tuff Shop v2</u>](./Tuff-Shop-v2/README.md)
+[<u>Tuff Shop v2</u>](./Tuff-Shop-v2)
 
-[<u>Queen Anne's Revenge</u>](./Queen-Annes-Revenge/README.md)
+[<u>Queen Anne's Revenge</u>](./Queen-Annes-Revenge)
 
 ## OSINT
 
-[<u>guessr 1</u>](./guessr-1/README.md)
+[<u>guessr 1</u>](./guessr-1)
 
-[<u>guessr 2</u>](./guessr-2/README.md)
+[<u>guessr 2</u>](./guessr-2)
 
-[<u>guessr 3</u>](./guessr-3/README.md)
+[<u>guessr 3</u>](./guessr-3)
 
 ## Reverse Engineering
 
-[<u>Reverse Day 1</u>](./Reverse-Day-1/README.md)
+[<u>Reverse Day 1</u>](./Reverse-Day-1)
 
-[<u>check it out</u>](./check-it-out/README.md)
+[<u>check it out</u>](./check-it-out)
 
-[<u>Snakev3</u>](./Snakev3/README.md)
+[<u>Snakev3</u>](./Snakev3)
 
-[<u>sPYware</u>](./sPYware/README.md)
+[<u>sPYware</u>](./sPYware)
 
-[<u>strings</u>](./strings/README.md)
+[<u>strings</u>](./strings)
 
-[<u>WASM (Weird Assembly)</u>](./WASM-(Weird-Assembly)/README.md)
+[<u>WASM (Weird Assembly)</u>](./WASM-(Weird-Assembly))
